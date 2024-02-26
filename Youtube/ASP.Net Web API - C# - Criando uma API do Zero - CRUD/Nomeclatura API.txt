@@ -1,0 +1,40 @@
+POST -> ENVIAR INFORMAÇÕES -> BANCO DE DADOS
+--------------------------------------------------------------------------------
+OBS: POST PRECISO NOMEAR A INFORMAÇÃO QUE IREI ADICIONAR AO BANCO.
+--------------------------------------------------------------------------------
+
+
+PUT -> ATUALIZAR INFORMAÇÕES -> BANCO DE DADOS
+--------------------------------------------------------------------------------
+OBS: PUT PRECISO INFORMAR O ID DA INFORMAÇÃO QUE IREI ATUALIZAR AO BANCO.
+--------------------------------------------------------------------------------
+
+
+GET -> PEGAR INFORMAÇÕES -> BANCO DE DADOS
+--------------------------------------------------------------------------------
+OBS: GET PRECISO INFORMAR O ID DA INFORMAÇÃO QUE IREI PEGAR DO BANCO.
+OBS 2: AS INFORMAÇÕES DO GET IRÃO VOLTAR EM JSON.
+--------------------------------------------------------------------------------
+
+
+DELETE -> APAGAR INFORMAÇÕES -> BANCO DE DADOS
+--------------------------------------------------------------------------------
+OBS: DELETE PRECISO INFORMAR O ID DA INFORMAÇÃO QUE IREI DELETAR DO BANCO.
+--------------------------------------------------------------------------------
+
+
+EXTRA:PATCH -> ATUALIZAR APENAS ALGUMAS INFORMAÇÕES -> BANCO DE DADOS
+--------------------------------------------------------------------------------
+OBS: POSSO ATUALIZAR ATE SOMENTE UMA INFORMAÇÃO.
+--------------------------------------------------------------------------------
+
+
+
+CODIGOS DE RESPOSTAS
+
+Respostas de Informações(100-199)
+Resposta de Sucessos(200-299)
+Redirecionamentos(300-399)
+Erros do Cliente(400-499)
+Erros do Servidor(500-599)
+

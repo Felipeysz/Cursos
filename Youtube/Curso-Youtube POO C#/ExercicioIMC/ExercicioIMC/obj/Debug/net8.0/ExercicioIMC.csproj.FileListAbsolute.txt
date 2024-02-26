@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.exe
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.deps.json
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.runtimeconfig.json
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.dll
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\bin\Debug\net8.0\ExercicioIMC.pdb
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.AssemblyInfo.cs
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.dll
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\refint\ExercicioIMC.dll
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.pdb
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ExercicioIMC.genruntimeconfig.cache
+C:\Users\Felip\source\repos\ExercicioIMC\ExercicioIMC\obj\Debug\net8.0\ref\ExercicioIMC.dll

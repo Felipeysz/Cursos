@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.AssemblyInfo.cs
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\AulaString\AulaString\bin\Debug\net6.0\AulaString.exe
+C:\Users\Felip\source\repos\AulaString\AulaString\bin\Debug\net6.0\AulaString.deps.json
+C:\Users\Felip\source\repos\AulaString\AulaString\bin\Debug\net6.0\AulaString.runtimeconfig.json
+C:\Users\Felip\source\repos\AulaString\AulaString\bin\Debug\net6.0\AulaString.dll
+C:\Users\Felip\source\repos\AulaString\AulaString\bin\Debug\net6.0\AulaString.pdb
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.dll
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\refint\AulaString.dll
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.pdb
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\AulaString.genruntimeconfig.cache
+C:\Users\Felip\source\repos\AulaString\AulaString\obj\Debug\net6.0\ref\AulaString.dll

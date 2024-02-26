@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\AulaThis\AulaThis\bin\Debug\net8.0\AulaThis.exe
+C:\Users\Felip\source\repos\AulaThis\AulaThis\bin\Debug\net8.0\AulaThis.deps.json
+C:\Users\Felip\source\repos\AulaThis\AulaThis\bin\Debug\net8.0\AulaThis.runtimeconfig.json
+C:\Users\Felip\source\repos\AulaThis\AulaThis\bin\Debug\net8.0\AulaThis.dll
+C:\Users\Felip\source\repos\AulaThis\AulaThis\bin\Debug\net8.0\AulaThis.pdb
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.AssemblyInfo.cs
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.dll
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\refint\AulaThis.dll
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.pdb
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\AulaThis.genruntimeconfig.cache
+C:\Users\Felip\source\repos\AulaThis\AulaThis\obj\Debug\net8.0\ref\AulaThis.dll

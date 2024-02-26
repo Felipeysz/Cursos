@@ -1,0 +1,62 @@
+git init = Iniciar Git SEMPRE ULTILIZAR NO COMEÇO DO CMD
+
+git status = Verificar Itens que podem ser commitados)
+
+git add "Nome Do Arquivo" = Adiciona arquivo ou pasta em especifico
+
+git add . = Adiciona Todos os Arquivos/Pastas
+
+git commit -m "Versão do Commit" = Versão do Codigo (Se For a Primeira versão normalmente escrevem (commit incial))
+
+git remote add origin https://github.com/Felipeysz/Cursos (Para Mandar os Commits para o Cursos)
+
+git push --set -upstream origin master (Sobe Meus Codigos Para a Master)
+
+git reflog = ver os commits
+
+git reset --hard (codigo em amarelo ao digitar git reflog) = Voltar a um Commit antigo (Dentro da Sua Maquina)
+
+git branch (staging = atualizações) = podemos ultilizar outros nomes
+
+git checkout (staging) Mudar Para A Branch Que Eu Queira
+
+Como Juntar As Branchs Somente em Casos de Codigo Pronto Para Juntar As Branchs
+
+	1 - Git Checkout master = Branch Principal
+
+	2 - git pull = Puxa as Atualizações do branch principal do git hub mais atuais para sua maquina
+
+	3 - git Checkout staging = Branch Trabalho
+
+	4 - git commit
+
+	5 - git push
+
+	6 - Git Checkout master = Branch Principal (Novamente)
+
+	7 - git merge staging = UNIR CODIGOS DA STAGING DENTRO DA MASTER
+
+	8 - Git Push Pra Confirmar que não teve nenhum Problema
+
+	9 - git status
+
+
+git checkout -b (nome da nova branch) (nome da branch que irei clonar) == Clona Essa Branch em uma nova para adicionar codigos
+
+
+*PULL REQUEST*
+
+OBS:Caso Seja Negado Meu PULL REQUEST Não Preciso Fazer Tudo DENOVO Somente um Commit Com as alterações que foram solicitadas
+
+1- Git Add . (Adicionar suas atualizações de arquivo)
+2 - Git Commit (na sua Branch de Trabalho != Diferente da Master)
+3 - Git Push (Mandar seu Codigo para a Nuvem)
+4 - Entrar no Git Hub e entrar no Compare & Pull Request
+5 - Detalhar o que foi feito
+
+GIT IGNORE
+
+OBS:Fazer isso na Branch Master
+
+touch .gitignore
+Colocar o Nome dos Arquivos/Pasta/Fotos/Txt Dentro do txt gitignore

@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\Herança\Herança\bin\Debug\net8.0\Herança.exe
+C:\Users\Felip\source\repos\Herança\Herança\bin\Debug\net8.0\Herança.deps.json
+C:\Users\Felip\source\repos\Herança\Herança\bin\Debug\net8.0\Herança.runtimeconfig.json
+C:\Users\Felip\source\repos\Herança\Herança\bin\Debug\net8.0\Herança.dll
+C:\Users\Felip\source\repos\Herança\Herança\bin\Debug\net8.0\Herança.pdb
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.AssemblyInfo.cs
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.dll
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\refint\Herança.dll
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.pdb
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\Herança.genruntimeconfig.cache
+C:\Users\Felip\source\repos\Herança\Herança\obj\Debug\net8.0\ref\Herança.dll

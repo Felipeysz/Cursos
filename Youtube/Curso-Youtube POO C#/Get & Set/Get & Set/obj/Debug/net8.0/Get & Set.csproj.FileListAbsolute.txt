@@ -1,0 +1,14 @@
+C:\Users\Felip\source\repos\Get & Set\Get & Set\bin\Debug\net8.0\Get & Set.exe
+C:\Users\Felip\source\repos\Get & Set\Get & Set\bin\Debug\net8.0\Get & Set.deps.json
+C:\Users\Felip\source\repos\Get & Set\Get & Set\bin\Debug\net8.0\Get & Set.runtimeconfig.json
+C:\Users\Felip\source\repos\Get & Set\Get & Set\bin\Debug\net8.0\Get & Set.dll
+C:\Users\Felip\source\repos\Get & Set\Get & Set\bin\Debug\net8.0\Get & Set.pdb
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.AssemblyInfoInputs.cache
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.AssemblyInfo.cs
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.csproj.CoreCompileInputs.cache
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.dll
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\refint\Get & Set.dll
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.pdb
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\Get & Set.genruntimeconfig.cache
+C:\Users\Felip\source\repos\Get & Set\Get & Set\obj\Debug\net8.0\ref\Get & Set.dll
