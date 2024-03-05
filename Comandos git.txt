@@ -31,6 +31,7 @@ Como Juntar As Branchs Somente em Casos de Codigo Pronto Para Juntar As Branchs
 	4 - git commit
 
 	5 - git push
+	5.1 - git push https://github.com/Felipeysz/Cursos master -f (caso o git push de algum erro)
 
 	6 - Git Checkout master = Branch Principal (Novamente)
 

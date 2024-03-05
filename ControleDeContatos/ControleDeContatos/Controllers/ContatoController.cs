@@ -65,7 +65,7 @@ namespace ControleDeContatos.Controllers
             {
                 if (ModelState.IsValid)
                 {
-                    _contatoRepositorio.Adicionar(contato);
+                    contato = _contatoRepositorio.Adicionar(contato);
                     TempData["MensagemSucesso"] = "Contato Cadastrado com Sucesso!";
                     return RedirectToAction("Index");
                 }
