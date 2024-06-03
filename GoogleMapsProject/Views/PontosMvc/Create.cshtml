@@ -1,0 +1,31 @@
+﻿@model GoogleMapsProject.Models.PontosModels
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Criar Ponto</title>
+</head>
+<body>
+    <h1>Criar Novo Ponto</h1>
+
+    <form asp-action="Create">
+        <div>
+            <label>Latitude</label>
+            <input asp-for="lat" />
+        </div>
+        <div>
+            <label>Longitude</label>
+            <input asp-for="lon" />
+        </div>
+        <div>
+            <label>Localização</label>
+            <input asp-for="loc" />
+        </div>
+        <div>
+            <input type="submit" value="Criar" />
+        </div>
+    </form>
+
+    <a href="@Url.Action("Index")">Voltar à Lista</a>
+</body>
+</html>

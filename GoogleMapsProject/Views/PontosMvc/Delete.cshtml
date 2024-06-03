@@ -1,0 +1,39 @@
+﻿@model GoogleMapsProject.Models.PontosModels
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Deletar Ponto</title>
+</head>
+<body>
+    <h1>Deletar Ponto</h1>
+
+    <div>
+        <h3>Você tem certeza que deseja deletar este ponto?</h3>
+        <div>
+            <label>ID:</label>
+            <span>@Model.Id</span>
+        </div>
+        <div>
+            <label>Latitude:</label>
+            <span>@Model.lat</span>
+        </div>
+        <div>
+            <label>Longitude:</label>
+            <span>@Model.lon</span>
+        </div>
+        <div>
+            <label>Localização:</label>
+            <span>@Model.loc</span>
+        </div>
+    </div>
+
+    <form asp-action="DeleteConfirmed">
+        <input type="hidden" asp-for="Id" />
+        <div>
+            <input type="submit" value="Deletar" /> |
+            <a href="@Url.Action("Index")">Cancelar</a>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,32 @@
+﻿@model GoogleMapsProject.Models.PontosModels
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Detalhes do Ponto</title>
+</head>
+<body>
+    <h1>Detalhes do Ponto</h1>
+
+    <div>
+        <div>
+            <label>ID:</label>
+            <span>@Model.Id</span>
+        </div>
+        <div>
+            <label>Latitude:</label>
+            <span>@Model.lat</span>
+        </div>
+        <div>
+            <label>Longitude:</label>
+            <span>@Model.lon</span>
+        </div>
+        <div>
+            <label>Localização:</label>
+            <span>@Model.loc</span>
+        </div>
+    </div>
+
+    <a href="@Url.Action("Index")">Voltar à Lista</a>
+</body>
+</html>

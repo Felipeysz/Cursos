@@ -1,0 +1,40 @@
+﻿@model IEnumerable<GoogleMapsProject.Models.PontosModels>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pontos</title>
+</head>
+<body>
+    <h1>Lista de Pontos</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Latitude</th>
+                <th>Longitude</th>
+                <th>Localização</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var ponto in Model)
+            {
+                <tr>
+                    <td>@ponto.Id</td>
+                    <td>@ponto.lat</td>
+                    <td>@ponto.lon</td>
+                    <td>@ponto.loc</td>
+                    <td>
+                        <a href="@Url.Action("Edit", "PontosMvc", new { id = ponto.Id })">Editar</a> |
+                        <a href="@Url.Action("Delete", "PontosMvc", new { id = ponto.Id })">Excluir</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>
+        <a href="@Url.Action("Create", "PontosMvc")">Adicionar Ponto</a>
+    </p>
+</body>
+</html>
